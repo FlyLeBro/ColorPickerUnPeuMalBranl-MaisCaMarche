@@ -103,7 +103,6 @@ class ColorPicker extends React.Component {
                 </div>
 
                 <div className="box2" style={{background: `linear-gradient(${this.state.rotation + 'deg'}, ${this.state.color1} ${this.state.breakpoint1 + '%'}, ${this.state.color2} ${this.state.breakpoint2 + '%'}, ${this.state.color3} ${this.state.breakpoint3 + '%'})`}}>
-                    coucou
                 </div>
 
             </div>
