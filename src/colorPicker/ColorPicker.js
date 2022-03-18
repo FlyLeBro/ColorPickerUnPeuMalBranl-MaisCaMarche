@@ -61,7 +61,7 @@ class ColorPicker extends React.Component {
         return(
             <div className="container">
                 <h1>CSS GRADIENT</h1>
-                <div className="box" id="color1">
+                <div className="box">
                     <span>Color 1</span>
                     <div>
                         <input type="color" onChange={this.onChange1.bind(this)}></input>
