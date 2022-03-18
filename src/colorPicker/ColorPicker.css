@@ -1,0 +1,12 @@
+.container {}
+
+.box {
+    border: 1px solid black;
+    width: 500px;
+    height: 150px;
+}
+
+.box2 {
+    border: 1px solid black;
+    height: 250px;
+}
